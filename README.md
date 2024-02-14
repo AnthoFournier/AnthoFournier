@@ -36,6 +36,6 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 
 ## My Journey
 
-Starting with the basics of HTML and CSS, I embarked on a path to understand the building blocks of the web. With each step, from styling with Sass and Bootstrap to scripting with PHP and managing data with MySQL, I've gained valuable skills and insights. Linux has been an essential part of setting up a robust development environment.
+Starting with the basics of HTML and CSS, I embarked on a path to understand the building blocks of the web. With each step, from styling with Sass and Bootstrap to scripting with PHP and managing data with MySQL, I've gained valuable skills and insights.
 
 The journey ahead is exciting as I venture into JavaScript, enrich the user experience with Vue.js, and advance my backend skills with Symfony. Stay tuned as I update this page with projects, insights, and learnings from each phase of my training.

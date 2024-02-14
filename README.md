@@ -31,8 +31,14 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 
 ## My github activity
-![AnthoFournier's Stats](https://github-readme-stats.vercel.app/api?username=AnthoFournier&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
-![AnthoFournier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnthoFournier&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" alt="AnthoFournier's Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false" alt="AnthoFournier's Streak"/>
+</p>
+
 
 ## My Journey
 

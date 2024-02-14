@@ -1,5 +1,9 @@
 # 👋 Hi, I’m @AnthoFournier : Web and Mobile Development Training Journey ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
-
+<p align="center">
+  <a href="https://github.com/AnthoFournier/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoFournier" alt="Top Langs" width="100%"/>
+  </a>
+</p>
 Welcome to my GitHub page! Here, I document my journey through a comprehensive Web and Mobile Development training program. From the fundamentals of HTML and CSS to the dynamic capabilities of Javascript and Vue.js, follow my progress as I delve into the world of development.
 
 ## Technologies under study

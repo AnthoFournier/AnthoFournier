@@ -6,9 +6,9 @@
 </p>
 Welcome to my GitHub page! Here, I document my journey through a comprehensive Web and Mobile Development training program. From the fundamentals of HTML and CSS to the dynamic capabilities of Javascript and Vue.js, follow my progress as I delve into the world of development.
 
-## Technologies under study
+## ⚡ Technologies under study
 
-### SKILLS in PROGRESS
+### 🔥 SKILLS in PROGRESS
 
 ![HTML5](https://img.shields.io/badge/CODE-HTML5-blueviolet?=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CODE-CSS3-blueviolet?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
@@ -29,12 +29,12 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![GitHub](https://img.shields.io/badge/TOOLS-GitHub-blueviolet?=flat&logo=github&logoColor=181717&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
 
-### Learning SKILLS
+### 💥 Learning SKILLS
 ![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-blueviolet?style=flat&logo=javascript&color=yellow)
 ![Vue.js](https://img.shields.io/badge/CODE-Vue.js-blueviolet?=flat&logo=vuedotjs&logoColor=4FC08D&color=4FC08D)
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 
-## My github activity
+## 💻 My github activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthoFournier&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" alt="AnthoFournier's Stats" width="100%"/>
@@ -43,7 +43,7 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false" alt="AnthoFournier's Streak" width="100%"/>
 </p>
 
-## My Journey
+## 🦅 My Journey
 
 Starting with the basics of HTML and CSS, I embarked on a path to understand the building blocks of the web. With each step, from styling with Sass and Bootstrap to scripting with PHP and managing data with MySQL, I've gained valuable skills and insights.
 

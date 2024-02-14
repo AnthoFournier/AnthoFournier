@@ -2,9 +2,9 @@
 
 Welcome to my GitHub page! Here, I document my journey through a comprehensive Web and Mobile Development training program. From the fundamentals of HTML and CSS to the dynamic capabilities of Javascript and Vue.js, follow my progress as I delve into the world of development.
 
-## Technologies Learned
+## Technologies under study
 
-### Skills "Junior"
+### SKILLS in PROGRESS
 
 ![HTML5](https://img.shields.io/badge/CODE-HTML5-blueviolet?=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CODE-CSS3-blueviolet?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
@@ -30,9 +30,11 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![Vue.js](https://img.shields.io/badge/CODE-Vue.js-blueviolet?=flat&logo=vuedotjs&logoColor=4FC08D&color=4FC08D)
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 
-## My Journey
+## My github activity
 ![AnthoFournier's Stats](https://github-readme-stats.vercel.app/api?username=AnthoFournier&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 ![AnthoFournier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false)
+
+## My Journey
 
 Starting with the basics of HTML and CSS, I embarked on a path to understand the building blocks of the web. With each step, from styling with Sass and Bootstrap to scripting with PHP and managing data with MySQL, I've gained valuable skills and insights. Linux has been an essential part of setting up a robust development environment.
 

@@ -8,7 +8,7 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 
 ## ⚡ Technologies under study
 
-### 🔥 SKILLS in PROGRESS
+### 🔥 SKILLS IN PROGRESS
 
 ![HTML5](https://img.shields.io/badge/CODE-HTML5-blueviolet?=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CODE-CSS3-blueviolet?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
@@ -29,7 +29,7 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![GitHub](https://img.shields.io/badge/TOOLS-GitHub-blueviolet?=flat&logo=github&logoColor=181717&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
 
-### 💥 Learning SKILLS
+### 💥 LEARNING SKILLS
 ![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-blueviolet?style=flat&logo=javascript&color=yellow)
 ![Vue.js](https://img.shields.io/badge/CODE-Vue.js-blueviolet?=flat&logo=vuedotjs&logoColor=4FC08D&color=4FC08D)
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)

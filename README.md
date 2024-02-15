@@ -10,7 +10,6 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ## ⚡ Technologies under study
 
 ### 🔥 SKILLS IN PROGRESS
-
 ![HTML5](https://img.shields.io/badge/CODE-HTML5-blueviolet?=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CODE-CSS3-blueviolet?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
 ![SASS](https://img.shields.io/badge/CODE-Sass-blueviolet?=flat&logo=sass&logoColor=CC6699&color=CC6699)

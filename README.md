@@ -30,7 +30,7 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
 
 ### 💥 LEARNING SKILLS
-![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-blueviolet?style=flat&logo=javascript&color=yellow)
+![JavaScript Badge](https://img.shields.io/badge/CODE-JavaScript-blueviolet?style=flat&logo=javascript&color=yellow)
 ![Vue.js](https://img.shields.io/badge/CODE-Vue.js-blueviolet?=flat&logo=vuedotjs&logoColor=4FC08D&color=4FC08D)
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 

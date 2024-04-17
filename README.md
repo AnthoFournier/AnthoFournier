@@ -11,6 +11,7 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![BOOTSTRAP](https://img.shields.io/badge/CODE-Bootstrap-blueviolet?=flat&logo=Bootstrap&logoColor=7952B3&color=7952B3)
 ![PHP](https://img.shields.io/badge/CODE-php-blueviolet?=flat&logo=php&logoColor=777BB4&color=777BB4)
 ![MySQL](https://img.shields.io/badge/CODE-MySQL-blueviolet?=flat&logo=MySQL&logoColor=4479A1&color=4479A1)
+![JavaScript Badge](https://img.shields.io/badge/CODE-JavaScript-blueviolet?style=flat&logo=javascript&color=yellow)
 ![tailwindcss](https://img.shields.io/badge/CODE-Tailwind_CSS-blueviolet?=flat&logo=tailwindcss&logoColor=06B6D4&color=06B6D4)
 
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-blueviolet?=flat&logo=wordpress&logoColor=21759B&color=21759B)
@@ -25,7 +26,6 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
 
 ### 💥 LEARNING SKILLS
-![JavaScript Badge](https://img.shields.io/badge/CODE-JavaScript-blueviolet?style=flat&logo=javascript&color=yellow)
 ![Vue.js](https://img.shields.io/badge/CODE-Vue.js-blueviolet?=flat&logo=vuedotjs&logoColor=4FC08D&color=4FC08D)
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 

@@ -31,10 +31,10 @@ Welcome to my GitHub page! Here, I document my journey through a comprehensive W
 
 ## 💻 My github activity
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=AnthoFournier&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" alt="AnthoFournier's Stats" width="100%"/>
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false" alt="AnthoFournier's Streak" width="100%"/>
 </p>
 

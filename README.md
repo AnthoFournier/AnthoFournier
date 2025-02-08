@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AnthoFournier : Web and Mobile Development ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
+# 👋 Hi, I’m @AnthoFournier ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
 
 Passionate about web development, I specialize in creating robust applications with Symfony. My previous career as a sales representative gives me a unique perspective on user needs and business challenges.
 

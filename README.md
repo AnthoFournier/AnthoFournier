@@ -1,10 +1,11 @@
-# 👋 Hi, I’m @AnthoFournier : Web and Mobile Development Training Journey ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
+# 👋 Hi, I’m @AnthoFournier : Web and Mobile Development ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
 
 Passionate about web development, I specialize in creating robust applications with Symfony. My previous career as a sales representative gives me a unique perspective on user needs and business challenges.
 
 ## ⚡ Technologies under study
 
 ### 🔥 SKILLS IN PROGRESS
+![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 ![HTML5](https://img.shields.io/badge/CODE-HTML5-blueviolet?=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CODE-CSS3-blueviolet?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
 ![SASS](https://img.shields.io/badge/CODE-Sass-blueviolet?=flat&logo=sass&logoColor=CC6699&color=CC6699)
@@ -25,10 +26,6 @@ Passionate about web development, I specialize in creating robust applications w
 ![GitHub](https://img.shields.io/badge/TOOLS-GitHub-blueviolet?=flat&logo=github&logoColor=181717&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
 
-### 💥 LEARNING SKILLS
-![Vue.js](https://img.shields.io/badge/CODE-Vue.js-blueviolet?=flat&logo=vuedotjs&logoColor=4FC08D&color=4FC08D)
-![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
-
 ## 💻 My github activity
 
 <p>
@@ -37,9 +34,3 @@ Passionate about web development, I specialize in creating robust applications w
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false" alt="AnthoFournier's Streak"/>
 </p>
-
-## 🦅 My Journey
-
-Starting with the basics of HTML and CSS, I embarked on a path to understand the building blocks of the web. With each step, from styling with Sass and Bootstrap to scripting with PHP and managing data with MySQL, I've gained valuable skills and insights.
-
-The journey ahead is exciting as I venture into JavaScript, enrich the user experience with Vue.js, and advance my backend skills with Symfony. Stay tuned as I update this page with projects, insights, and learnings from each phase of my training.

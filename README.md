@@ -22,7 +22,6 @@ Passionate about web development, I specialize in creating robust applications w
 ![npm](https://img.shields.io/badge/TOOLS-npm-blueviolet?=flat&logo=npm&logoColor=CB3837&color=CB3837)
 ![git](https://img.shields.io/badge/TOOLS-Git-blueviolet?=flat&logo=git&logoColor=F05032&color=F05032)
 ![Linux](https://img.shields.io/badge/TOOLS-Linux-blueviolet?=flat&logo=linux&logoColor=FCC624&color=FCC624)
-![Figma](https://img.shields.io/badge/TOOLS-Figma-blueviolet?=flat&logo=figma&logoColor=F24E1E&color=F24E1E)
 ![GitHub](https://img.shields.io/badge/TOOLS-GitHub-blueviolet?=flat&logo=github&logoColor=181717&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
 

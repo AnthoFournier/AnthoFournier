@@ -17,7 +17,6 @@ Passionate about web development, I specialize in creating robust applications w
 
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-blueviolet?=flat&logo=wordpress&logoColor=21759B&color=21759B)
 ![SEO](https://img.shields.io/badge/SEO-SEO-blueviolet?=flat&logo=google&logoColor=4285F4&color=4285F4)
-![Semrush](https://img.shields.io/badge/SEO-Semrush-blueviolet?=flat&logo=semrush&logoColor=FF642D&color=FF642D)
 
 ![npm](https://img.shields.io/badge/TOOLS-npm-blueviolet?=flat&logo=npm&logoColor=CB3837&color=CB3837)
 ![git](https://img.shields.io/badge/TOOLS-Git-blueviolet?=flat&logo=git&logoColor=F05032&color=F05032)

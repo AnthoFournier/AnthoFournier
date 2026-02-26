@@ -2,7 +2,7 @@
 
 Passionate about web development, I specialize in creating robust applications with Symfony. My previous career as a sales representative gives me a unique perspective on user needs and business challenges.
 
-## ⚡ Technologies under study
+## ⚡ Technologies
 
 ### 🔥 SKILLS IN PROGRESS
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)

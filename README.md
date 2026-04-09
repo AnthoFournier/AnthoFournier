@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AnthoFournier ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
+# Hi, I’m @AnthoFournier ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
 
 ## Technologies
 

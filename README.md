@@ -23,12 +23,3 @@ Passionate about web development, I specialize in creating robust applications w
 ![Linux](https://img.shields.io/badge/TOOLS-Linux-blueviolet?=flat&logo=linux&logoColor=FCC624&color=FCC624)
 ![GitHub](https://img.shields.io/badge/TOOLS-GitHub-blueviolet?=flat&logo=github&logoColor=181717&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/TOOLS-VisualStudioCode-blueviolet?=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC)
-
-## 💻 My github activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthoFournier&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true" alt="AnthoFournier's Stats"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthoFournier&theme=shades-of-purple&hide_border=false" alt="AnthoFournier's Streak"/>
-</p>

@@ -1,10 +1,8 @@
 # 👋 Hi, I’m @AnthoFournier ![PofileVue](https://komarev.com/ghpvc/?username=your-github-AnthoFournier&color=blueviolet)
 
-Passionate about web development, I specialize in creating robust applications with Symfony. My previous career as a sales representative gives me a unique perspective on user needs and business challenges.
+## Technologies
 
-## ⚡ Technologies
-
-### 🔥 SKILLS IN PROGRESS
+###  SKILLS
 ![Symfony](https://img.shields.io/badge/CODE-Symfony-blueviolet?=flat&logo=symfony&logoColor=000000&color=000000)
 ![HTML5](https://img.shields.io/badge/CODE-HTML5-blueviolet?=flat&logo=html5&logoColor=E34F26&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CODE-CSS3-blueviolet?style=flat&logo=css3&logoColor=1572B6&color=1572B6)
